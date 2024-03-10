@@ -17,11 +17,11 @@ HOW TO USE
 
 1) After you run the program you will get following messages:
 
-**---------------------------
+---------------------------
 |   CS2 SCORE PREDICTOR   |
 ---------------------------
 
-Enter Team Name 1:**
+Enter Team Name 1:
 
 2) Under **"Team Name 1:"** type the name of the first team and press enter.
 After that you should get this message:
