@@ -19,27 +19,27 @@ HOW TO USE
 
 ---------------------------
 |   CS2 SCORE PREDICTOR   |
----------------------------
+
 
 Enter Team Name 1:
-
+---------------------------
 2) Under **"Team Name 1:"** type the name of the first team and press enter.
 After that you should get this message:
-
-**Enter Team Name 2:**
-
+---------------------------
+Enter Team Name 2:
+---------------------------
 3)  Under **"Team Name 2:"** type the name of the second team and press enter.
 After that you should get this message:
-
-**Enter Map Name: de_**
-
+---------------------------
+Enter Map Name: de_
+---------------------------
 4) Under **"de_"** type  the name of the map that you want to be simulated.
 **Keep in mind not to press space before writing the name of the map as it will be
 later copied as "de_ mapname"**
 After that you should get this message:
-
-**Strength of Team 1 (Lowest 0, Highest 100):**
-
+---------------------------
+Strength of Team 1 (Lowest 0, Highest 100):
+---------------------------
 5) Under **"Strength of Team 1 (Lowest 0, Highest 100):"** you should write the strength
 of the first team you entered.
 **YOU MUST WRITE A VALUE OF 0-100 OTHERWISE THE PROGRAM WILL TURN OFF IMMEDIATELY**
@@ -49,13 +49,13 @@ of the first team you entered.
 6) If you followed everything correctly then you should get your result.
 e.g:
 
-**---------------------------------
+---------------------------------
        Team 1 13 - 5 Team 2
           MAP de_mapname MAP
 ---------------------------------
            11 First Half 1
             2 Second Half 4
----------------------------------**
+---------------------------------
 
 7) Press any key to exit the program
 
